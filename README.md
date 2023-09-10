@@ -1,4 +1,4 @@
-# libft - 42 School Project
+# Libft - 42 School Project
 
 The `libft` library is a fundamental project in the 42 School curriculum, which requires you to reimplement some standard C library functions as well as create additional utility functions.
 
